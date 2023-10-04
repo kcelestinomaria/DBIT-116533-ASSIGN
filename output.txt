@@ -1,0 +1,3 @@
+Welcome to the wonderful world of C++!
+This is my first C++ output statement
+Soon, I will learn how to input data into my program
